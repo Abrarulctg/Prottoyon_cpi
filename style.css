@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.prottoyon-box{
+    position: relative;
+    border: 3px solid red;
+    padding: 20px;
+    background-image: url(./resources/transparent-logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.cpi-logo{
+    width: 150px;
+    /* height: 100%; */
+}
+
+.prottoyon-title{
+    text-align: center;
+    border: 2px solid #000;
+    padding: 10px;
+    background-color: rgb(230, 230, 230);
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.prottoyon-text p{
+    line-height: 40px;
+    text-align: justify;
+}
+.student_name{
+    font-weight: 700;
+}
+
+.author-sig{
+    text-align: center;
+}
+.author-sig p{
+    border-top: 1px solid #000;
+}
+.author-sig img{
+    width: 100px;
+}
+
+.text-indent{
+    margin-left:40px;
+}
